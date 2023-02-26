@@ -1,2 +1,2 @@
 # ds-vendas
-Dashboard de vendas criado na Semana Spring React.
+Simple dashboard created in SSR
